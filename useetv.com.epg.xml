@@ -1920,16 +1920,7 @@
     <icon src="https://www.useetv.com/pimages/logo_rri_small1.png?v=2.0.0.13&quot;  alt=&quot;RRI NET&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;RRI NET&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;RRI NET&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;div data-shaka-player-container style=&quot;max-width:100%;background-color:#000&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/&quot; autoplay data-shaka-player id=&quot;video&quot; style=&quot;width:100%;height:100%&quot;&gt;&lt;/video&gt;&lt;/div&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/pimages/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
-  <channel id="SCTV">
-    <display-name lang="id">SCTV</display-name>
-    <icon src="https://www.useetv.com/pimages/logogrey/grey_logo_sctv_small1.png?v=2.0.0.15&quot;  alt=&quot;SCTV&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;SCTV&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;SCTV&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;div class=&quot;player-message-container&quot;&gt;&lt;div&gt;&lt;p&gt;Silahkan login Menggunakan akun MyIndihome dan berlangganan minipack&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/pimages/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
-    <url>http://www.useetv.com</url>
-  </channel>
-  <channel id="Trans7">
-    <display-name lang="id">Trans7</display-name>
-    <icon src="https://www.useetv.com/pimages/logo_trans7_small1.png?v=2.0.0.13&quot;  alt=&quot;Trans7&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Trans7&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Trans7&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;div data-shaka-player-container style=&quot;max-width:100%;background-color:#000&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/tvposter/trans7.png&quot; autoplay data-shaka-player id=&quot;video&quot; style=&quot;width:100%;height:100%&quot;&gt;&lt;/video&gt;&lt;/div&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/pimages/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
-    <url>http://www.useetv.com</url>
-  </channel>
+
   <channel id="TransTV">
     <display-name lang="id">TransTV</display-name>
     <icon src="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13&quot;  alt=&quot;TransTV&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;TransTV&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;TransTV&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;div data-shaka-player-container style=&quot;max-width:100%;background-color:#000&quot;&gt;&lt;video poster=&quot;https://www.useetv.com/pimages/tvposter/transtv.png&quot; autoplay data-shaka-player id=&quot;video&quot; style=&quot;width:100%;height:100%&quot;&gt;&lt;/video&gt;&lt;/div&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/pimages/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
@@ -5945,11 +5936,6 @@
   <channel id="Animax">
     <display-name lang="id">Animax</display-name>
     <icon src="https://www.useetv.com/pimages/logogrey/grey_logo_animax_small.png&quot;  alt=&quot;Animax&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;Animax&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Animax&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;div class=&quot;player-message-container&quot;&gt;&lt;div&gt;&lt;p&gt;Silahkan login Menggunakan akun MyIndihome dan berlangganan minipack&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/pimages/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
-    <url>http://www.useetv.com</url>
-  </channel>
-  <channel id="AXN">
-    <display-name lang="id">AXN</display-name>
-    <icon src="https://www.useetv.com/pimages/logogrey/grey_logo_axn_small.png?v=2.0.0.13&quot;  alt=&quot;AXN&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;AXN&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;AXN&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;div class=&quot;player-message-container&quot;&gt;&lt;div&gt;&lt;p&gt;Silahkan login Menggunakan akun MyIndihome dan berlangganan minipack&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/pimages/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="TVN">
@@ -12202,11 +12188,6 @@
     <icon src="https://www.useetv.com/pimages/logogrey/grey_logo_sgem_small.png?v=2.0.0.13&quot;  alt=&quot;SGEM&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;SGEM&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;SGEM&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;div class=&quot;player-message-container&quot;&gt;&lt;div&gt;&lt;p&gt;Silahkan login Menggunakan akun MyIndihome dan berlangganan minipack&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/pimages/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
-  <channel id="SONE">
-    <display-name lang="id">SONE</display-name>
-    <icon src="https://www.useetv.com/pimages/logogrey/grey_logo_sone_small.png?v=2.0.0.13&quot;  alt=&quot;SONE&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;SONE&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;SONE&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;div class=&quot;player-message-container&quot;&gt;&lt;div&gt;&lt;p&gt;Silahkan login Menggunakan akun MyIndihome dan berlangganan minipack&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/pimages/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
-    <url>http://www.useetv.com</url>
-  </channel>
   <channel id="TLC">
     <display-name lang="id">TLC</display-name>
     <icon src="https://www.useetv.com/pimages/logogrey/grey_logo_new-tlc_small.png&quot;  alt=&quot;TLC&quot;&gt;&lt;h1 class=&quot;text-primary&quot;&gt;TLC&lt;/h1&gt;&lt;ul class=&quot;breadcrumb&quot;&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt;  Home&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.useetv.com/tv/live&quot;&gt; Live TV&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;TLC&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-6 hidden-xs&quot;&gt;&lt;div class=&quot;img-full-width-container&quot;&gt;    &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/section&gt;&lt;section class=&quot;padding-bottom-50 alternate&quot; ng-app=&quot;useeTv&quot; &gt;&lt;div class=&quot;container&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-md-8 col-player&quot;&gt;&lt;div class=&quot;player-message-container&quot;&gt;&lt;div&gt;&lt;p&gt;Silahkan login Menggunakan akun MyIndihome dan berlangganan minipack&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;row currently-playing margin-top-0&quot;&gt;&lt;div class=&quot;col-sm-8 currently-playing__now padding-top-10&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Saat ini anda sedang menyaksikan&lt;/h4&gt;&lt;h2 title=&quot;&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;col-sm-4 currently-playing__now padding-top-10 text-right&quot; style=&quot;padding-left:15px;&quot;&gt;&lt;h4&gt;Bagikan&lt;/h4&gt;&lt;div id=&quot;share&quot; class=&quot; margin-top-10&quot; style=&quot;margin:0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;col-md-4 col-panel&quot;&gt;&lt;div class=&quot;panel panel-side-tv&quot; style=&quot;min-height:517px&quot;&gt;&lt;ul class=&quot;nav nav-justified&quot;&gt;  &lt;li class=&quot;text-bold&quot;&gt;&lt;a href=&quot;#&quot;&gt;Channel TV Lainnya&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&quot;tab-content&quot;&gt;  &lt;div class=&quot;form-group margin-bottom-20&quot; id=&quot;categoryDrop&quot; &gt;    &lt;select name=&quot;&quot; class=&quot;form-control&quot; id=&quot;&quot;&gt;&lt;option value=&quot;*&quot;&gt;Semua Kategori&lt;/option&gt; &lt;option value=&quot;.local&quot;&gt;Local&lt;/option&gt; &lt;option value=&quot;.sport&quot;&gt;Sport&lt;/option&gt; &lt;option value=&quot;.news&quot;&gt;News&lt;/option&gt; &lt;option value=&quot;.movies&quot;&gt;Movies&lt;/option&gt; &lt;option value=&quot;.music&quot;&gt;Music&lt;/option&gt; &lt;option value=&quot;.kids&quot;&gt;Kids&lt;/option&gt; &lt;option value=&quot;.knowledge&quot;&gt;Knowledge&lt;/option&gt; &lt;option value=&quot;.lifestyle&quot;&gt;Lifestyle&lt;/option&gt; &lt;option value=&quot;.entertainment&quot;&gt;Entertainment&lt;/option&gt; &lt;option value=&quot;.religi&quot;&gt;Religi&lt;/option&gt; &lt;option value=&quot;.live-streaming&quot;&gt;Live Streaming&lt;/option&gt;&lt;/select&gt;  &lt;/div&gt;  &lt;div id=&quot;other-channel&quot; class=&quot;tab-pane fade in active &quot;&gt;  &lt;div class=&quot;panel-body&quot; style=&quot;max-height:404px;overflow-y:auto;padding:0px;&quot; id=&quot;channelContainer&quot; &gt;    &lt;div class=&quot;col-xs-4  sport&quot;&gt;  &lt;div class=&quot;live-tv-channel&quot;&gt;                      &lt;a class=&quot;channel-logo&quot; href=&quot;https://www.useetv.com/livetv/bein1&quot;&gt;                      &lt;img onerror=&quot;this.src = 'https://www.useetv.com/assets/images/channel/channel_temp.png';&quot; src=&quot;https://www.useetv.com/pimages/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" />
@@ -14386,7 +14367,7 @@
   <programme start="20220214233000 +0700" stop="20220215012000 +0700" channel="Star Chinese Movies">
     <title lang="id">Silent Code</title>
   </programme>
-    <channel id="HBO Signature">
+  <channel id="HBO Signature">
     <display-name lang="id">HBO Signature</display-name>
     <icon src="https://mncvision.id/userfiles/image/channel/hbo_signature.png" />
     <url>http://www.mncvision.id.E</url>
@@ -14456,631 +14437,851 @@
     <icon src="https://mncvision.id/userfiles/image/channel/hbo_signature.jpg" />
     <url>http://www.mncvision.id.E</url>
   </channel>
-  <programme start="20220213073500 +0700" stop="20220213092500 +0700" channel="HBO Signature">
-    <title lang="id">Save The Last Dance</title>
+  <programme start="20220214083000 +0700" stop="20220214101500 +0700" channel="HBO Signature">
+    <title lang="id">Rocky 5</title>
   </programme>
-  <programme start="20220213092500 +0700" stop="20220213102500 +0700" channel="HBO Signature">
-    <title lang="id">The Gilded Age</title>
+  <programme start="20220214101500 +0700" stop="20220214104000 +0700" channel="HBO Signature">
+    <title lang="id">Hollywood On Set</title>
   </programme>
-  <programme start="20220213102500 +0700" stop="20220213124500 +0700" channel="HBO Signature">
-    <title lang="id">Gone Girl</title>
-  </programme>
-  <programme start="20220213124500 +0700" stop="20220213145500 +0700" channel="HBO Signature">
-    <title lang="id">American Sniper</title>
-  </programme>
-  <programme start="20220213145500 +0700" stop="20220213165000 +0700" channel="HBO Signature">
-    <title lang="id">The High Note</title>
-  </programme>
-  <programme start="20220213165000 +0700" stop="20220213182000 +0700" channel="HBO Signature">
-    <title lang="id">The Fever</title>
-  </programme>
-  <programme start="20220213182000 +0700" stop="20220213200000 +0700" channel="HBO Signature">
+  <programme start="20220214104000 +0700" stop="20220214122000 +0700" channel="HBO Signature">
     <title lang="id">Six Minutes To Midnight</title>
   </programme>
-  <programme start="20220213200000 +0700" stop="20220213203000 +0700" channel="HBO Signature">
-    <title lang="id">Righteous Gemstones</title>
+  <programme start="20220214122000 +0700" stop="20220214143000 +0700" channel="HBO Signature">
+    <title lang="id">The Accountant</title>
   </programme>
-  <programme start="20220213203000 +0700" stop="20220213210000 +0700" channel="HBO Signature">
-    <title lang="id">Somebody Somewhere</title>
+  <programme start="20220214143000 +0700" stop="20220214160000 +0700" channel="HBO Signature">
+    <title lang="id">Colors Of Love</title>
   </programme>
-  <programme start="20220213210000 +0700" stop="20220213230000 +0700" channel="HBO Signature">
-    <title lang="id">The Town</title>
-  </programme>
-  <programme start="20220213230000 +0700" stop="20220214004000 +0700" channel="HBO Signature">
+  <programme start="20220214160000 +0700" stop="20220214174000 +0700" channel="HBO Signature">
     <title lang="id">Audrey</title>
   </programme>
-  <programme start="20220213090000 +0700" stop="20220213104000 +0700" channel="HBO">
-    <title lang="id">My Spy</title>
+  <programme start="20220214174000 +0700" stop="20220214192500 +0700" channel="HBO Signature">
+    <title lang="id">Aloha</title>
   </programme>
-  <programme start="20220213104000 +0700" stop="20220213121000 +0700" channel="HBO">
-    <title lang="id">Minions</title>
+  <programme start="20220214192500 +0700" stop="20220214210000 +0700" channel="HBO Signature">
+    <title lang="id">After Truth: Disinformation...</title>
   </programme>
-  <programme start="20220213121000 +0700" stop="20220213141000 +0700" channel="HBO">
-    <title lang="id">The Equalizer 2</title>
+  <programme start="20220214210000 +0700" stop="20220214224000 +0700" channel="HBO Signature">
+    <title lang="id">Never Rarely Sometimes Always</title>
   </programme>
-  <programme start="20220213141000 +0700" stop="20220213161500 +0700" channel="HBO">
-    <title lang="id">Judas And The Black Messiah</title>
+  <programme start="20220214224000 +0700" stop="20220215003000 +0700" channel="HBO Signature">
+    <title lang="id">Deadwood: The Movie</title>
   </programme>
-  <programme start="20220213161500 +0700" stop="20220213181000 +0700" channel="HBO">
-    <title lang="id">G.I. Joe: The Rise Of Cobra</title>
+  <programme start="20220214081000 +0700" stop="20220214100000 +0700" channel="HBO">
+    <title lang="id">Me Before You</title>
   </programme>
-  <programme start="20220213181000 +0700" stop="20220213200000 +0700" channel="HBO">
-    <title lang="id">Promising Young Woman</title>
+  <programme start="20220214100000 +0700" stop="20220214104000 +0700" channel="HBO">
+    <title lang="id">Righteous Gemstones</title>
   </programme>
-  <programme start="20220213200000 +0700" stop="20220213214500 +0700" channel="HBO">
+  <programme start="20220214104000 +0700" stop="20220214111000 +0700" channel="HBO">
+    <title lang="id">Somebody Somewhere</title>
+  </programme>
+  <programme start="20220214111000 +0700" stop="20220214125500 +0700" channel="HBO">
     <title lang="id">The Marksman</title>
   </programme>
-  <programme start="20220213214500 +0700" stop="20220213234000 +0700" channel="HBO">
-    <title lang="id">Mad Max: Fury Road</title>
+  <programme start="20220214125500 +0700" stop="20220214151500 +0700" channel="HBO">
+    <title lang="id">Into The Wild</title>
   </programme>
-  <programme start="20220213234000 +0700" stop="20220214014000 +0700" channel="HBO">
-    <title lang="id">Knowing</title>
+  <programme start="20220214151500 +0700" stop="20220214170500 +0700" channel="HBO">
+    <title lang="id">Promising Young Woman</title>
   </programme>
-  <programme start="20220213081500 +0700" stop="20220213100500 +0700" channel="CINEMAX">
-    <title lang="id">Blumhouse's Fantasy Island</title>
+  <programme start="20220214170500 +0700" stop="20220214190500 +0700" channel="HBO">
+    <title lang="id">Emma.</title>
   </programme>
-  <programme start="20220213100500 +0700" stop="20220213122500 +0700" channel="CINEMAX">
-    <title lang="id">13 Hours</title>
+  <programme start="20220214190500 +0700" stop="20220214210000 +0700" channel="HBO">
+    <title lang="id">Crazy, Stupid, Love</title>
   </programme>
-  <programme start="20220213122500 +0700" stop="20220213140500 +0700" channel="CINEMAX">
-    <title lang="id">Dragonheart: Vengeance</title>
+  <programme start="20220214210000 +0700" stop="20220214214000 +0700" channel="HBO">
+    <title lang="id">Righteous Gemstones</title>
   </programme>
-  <programme start="20220213140500 +0700" stop="20220213154500 +0700" channel="CINEMAX">
-    <title lang="id">Without A Paddle</title>
+  <programme start="20220214214000 +0700" stop="20220214221000 +0700" channel="HBO">
+    <title lang="id">Somebody Somewhere</title>
   </programme>
-  <programme start="20220213154500 +0700" stop="20220213172500 +0700" channel="CINEMAX">
+  <programme start="20220214221000 +0700" stop="20220214231000 +0700" channel="HBO">
+    <title lang="id">Euphoria</title>
+  </programme>
+  <programme start="20220214231000 +0700" stop="20220215015500 +0700" channel="HBO">
+    <title lang="id">The Aviator</title>
+  </programme>
+  <programme start="20220214085500 +0700" stop="20220214102500 +0700" channel="CINEMAX">
+    <title lang="id">Rush Hour 2</title>
+  </programme>
+  <programme start="20220214102500 +0700" stop="20220214121000 +0700" channel="CINEMAX">
+    <title lang="id">The Italian Job</title>
+  </programme>
+  <programme start="20220214121000 +0700" stop="20220214140500 +0700" channel="CINEMAX">
+    <title lang="id">47 Ronin</title>
+  </programme>
+  <programme start="20220214140500 +0700" stop="20220214154000 +0700" channel="CINEMAX">
     <title lang="id">Pure Luck</title>
   </programme>
-  <programme start="20220213172500 +0700" stop="20220213190000 +0700" channel="CINEMAX">
+  <programme start="20220214154000 +0700" stop="20220214172000 +0700" channel="CINEMAX">
     <title lang="id">The Gathering Storm</title>
   </programme>
-  <programme start="20220213190000 +0700" stop="20220213210000 +0700" channel="CINEMAX">
-    <title lang="id">The Chronicles Of Riddick</title>
+  <programme start="20220214172000 +0700" stop="20220214185500 +0700" channel="CINEMAX">
+    <title lang="id">The Perfect Score</title>
   </programme>
-  <programme start="20220213210000 +0700" stop="20220213224500 +0700" channel="CINEMAX">
-    <title lang="id">Cop Out</title>
+  <programme start="20220214185500 +0700" stop="20220214210000 +0700" channel="CINEMAX">
+    <title lang="id">Allied</title>
   </programme>
-  <programme start="20220213224500 +0700" stop="20220214000500 +0700" channel="CINEMAX">
-    <title lang="id">The Dictator</title>
+  <programme start="20220214210000 +0700" stop="20220214224000 +0700" channel="CINEMAX">
+    <title lang="id">Horrible Bosses</title>
   </programme>
-  <programme start="20220213090000 +0700" stop="20220213093000 +0700" channel="HBO Family">
-    <title lang="id">Jamie Johnson</title>
+  <programme start="20220214224000 +0700" stop="20220215002500 +0700" channel="CINEMAX">
+    <title lang="id">Horrible Bosses 2</title>
   </programme>
-  <programme start="20220213093000 +0700" stop="20220213100000 +0700" channel="HBO Family">
-    <title lang="id">Jamie Johnson</title>
+  <programme start="20220214093000 +0700" stop="20220214100000 +0700" channel="HBO Family">
+    <title lang="id">Happily Ever After</title>
   </programme>
-  <programme start="20220213100000 +0700" stop="20220213103500 +0700" channel="HBO Family">
-    <title lang="id">Jamie Johnson</title>
-  </programme>
-  <programme start="20220213103500 +0700" stop="20220213120000 +0700" channel="HBO Family">
-    <title lang="id">Teen Titans Go! See Space Jam</title>
-  </programme>
-  <programme start="20220213120000 +0700" stop="20220213134000 +0700" channel="HBO Family">
-    <title lang="id">A Cinderella Story: Starstruck</title>
-  </programme>
-  <programme start="20220213134000 +0700" stop="20220213150000 +0700" channel="HBO Family">
-    <title lang="id">Happy Halloween, Scooby-Doo!</title>
-  </programme>
-  <programme start="20220213150000 +0700" stop="20220213162500 +0700" channel="HBO Family">
-    <title lang="id">Dr. Seuss' The Grinch Musical!</title>
-  </programme>
-  <programme start="20220213162500 +0700" stop="20220213180000 +0700" channel="HBO Family">
-    <title lang="id">Come Away</title>
-  </programme>
-  <programme start="20220213180000 +0700" stop="20220213193000 +0700" channel="HBO Family">
+  <programme start="20220214100000 +0700" stop="20220214113000 +0700" channel="HBO Family">
     <title lang="id">Alvin &amp; Chipmunks: Squeakquel</title>
   </programme>
-  <programme start="20220213193000 +0700" stop="20220213205500 +0700" channel="HBO Family">
+  <programme start="20220214113000 +0700" stop="20220214130000 +0700" channel="HBO Family">
     <title lang="id">Alvin &amp; Chipmunks: Chipwrecked</title>
   </programme>
-  <programme start="20220213205500 +0700" stop="20220213210500 +0700" channel="HBO Family">
+  <programme start="20220214130000 +0700" stop="20220214133000 +0700" channel="HBO Family">
+    <title lang="id">Crashbox</title>
+  </programme>
+  <programme start="20220214133000 +0700" stop="20220214140000 +0700" channel="HBO Family">
+    <title lang="id">Crashbox</title>
+  </programme>
+  <programme start="20220214140000 +0700" stop="20220214143000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20220214143000 +0700" stop="20220214150000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20220214150000 +0700" stop="20220214153000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20220214153000 +0700" stop="20220214160000 +0700" channel="HBO Family">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20220214160000 +0700" stop="20220214161500 +0700" channel="HBO Family">
     <title lang="id">The Tom &amp; Jerry Show</title>
   </programme>
-  <programme start="20220213210500 +0700" stop="20220213211500 +0700" channel="HBO Family">
+  <programme start="20220214161500 +0700" stop="20220214163000 +0700" channel="HBO Family">
     <title lang="id">The Tom &amp; Jerry Show</title>
   </programme>
-  <programme start="20220213211500 +0700" stop="20220213212400 +0700" channel="HBO Family">
+  <programme start="20220214163000 +0700" stop="20220214164500 +0700" channel="HBO Family">
     <title lang="id">The Tom &amp; Jerry Show</title>
   </programme>
-  <programme start="20220213212400 +0700" stop="20220213213400 +0700" channel="HBO Family">
+  <programme start="20220214164500 +0700" stop="20220214170000 +0700" channel="HBO Family">
     <title lang="id">The Tom &amp; Jerry Show</title>
   </programme>
-  <programme start="20220213213400 +0700" stop="20220213214400 +0700" channel="HBO Family">
-    <title lang="id">The Tom &amp; Jerry Show</title>
-  </programme>
-  <programme start="20220213214400 +0700" stop="20220213215400 +0700" channel="HBO Family">
-    <title lang="id">The Tom &amp; Jerry Show</title>
-  </programme>
-  <programme start="20220213215400 +0700" stop="20220213220400 +0700" channel="HBO Family">
-    <title lang="id">The Tom &amp; Jerry Show</title>
-  </programme>
-  <programme start="20220213220400 +0700" stop="20220213221400 +0700" channel="HBO Family">
-    <title lang="id">The Tom &amp; Jerry Show</title>
-  </programme>
-  <programme start="20220213221400 +0700" stop="20220213222400 +0700" channel="HBO Family">
-    <title lang="id">The Tom &amp; Jerry Show</title>
-  </programme>
-  <programme start="20220213222400 +0700" stop="20220213224500 +0700" channel="HBO Family">
-    <title lang="id">The Tom &amp; Jerry Show</title>
-  </programme>
-  <programme start="20220213224500 +0700" stop="20220213231200 +0700" channel="HBO Family">
+  <programme start="20220214170000 +0700" stop="20220214173000 +0700" channel="HBO Family">
     <title lang="id">Jamie Johnson</title>
   </programme>
-  <programme start="20220213231200 +0700" stop="20220213234000 +0700" channel="HBO Family">
+  <programme start="20220214173000 +0700" stop="20220214180000 +0700" channel="HBO Family">
     <title lang="id">Jamie Johnson</title>
   </programme>
-  <programme start="20220213234000 +0700" stop="20220214001500 +0700" channel="HBO Family">
+  <programme start="20220214180000 +0700" stop="20220214195000 +0700" channel="HBO Family">
+    <title lang="id">Monte Carlo</title>
+  </programme>
+  <programme start="20220214195000 +0700" stop="20220214212000 +0700" channel="HBO Family">
+    <title lang="id">Fantastic Mr. Fox</title>
+  </programme>
+  <programme start="20220214212000 +0700" stop="20220214230000 +0700" channel="HBO Family">
+    <title lang="id">Big Momma's House</title>
+  </programme>
+  <programme start="20220214230000 +0700" stop="20220214233000 +0700" channel="HBO Family">
     <title lang="id">Jamie Johnson</title>
   </programme>
-  <programme start="20220213073500 +0700" stop="20220213092500 +0700" channel="HBO Hits">
-    <title lang="id">Geostorm</title>
+  <programme start="20220214233000 +0700" stop="20220215000500 +0700" channel="HBO Family">
+    <title lang="id">Jamie Johnson</title>
   </programme>
-  <programme start="20220213092500 +0700" stop="20220213110500 +0700" channel="HBO Hits">
-    <title lang="id">Daddy's Home</title>
-  </programme>
-  <programme start="20220213110500 +0700" stop="20220213124000 +0700" channel="HBO Hits">
-    <title lang="id">Despicable Me 2</title>
-  </programme>
-  <programme start="20220213124000 +0700" stop="20220213145500 +0700" channel="HBO Hits">
-    <title lang="id">Flight</title>
-  </programme>
-  <programme start="20220213145500 +0700" stop="20220213152500 +0700" channel="HBO Hits">
-    <title lang="id">Hollywood On Set S1</title>
-  </programme>
-  <programme start="20220213152500 +0700" stop="20220213165500 +0700" channel="HBO Hits">
-    <title lang="id">Passengers</title>
-  </programme>
-  <programme start="20220213165500 +0700" stop="20220213184000 +0700" channel="HBO Hits">
-    <title lang="id">The Photograph</title>
-  </programme>
-  <programme start="20220213184000 +0700" stop="20220213202000 +0700" channel="HBO Hits">
+  <programme start="20220214082000 +0700" stop="20220214100000 +0700" channel="HBO Hits">
     <title lang="id">Red Riding Hood</title>
   </programme>
-  <programme start="20220213202000 +0700" stop="20220213220000 +0700" channel="HBO Hits">
-    <title lang="id">Hercules</title>
-  </programme>
-  <programme start="20220213220000 +0700" stop="20220213233500 +0700" channel="HBO Hits">
+  <programme start="20220214100000 +0700" stop="20220214113500 +0700" channel="HBO Hits">
     <title lang="id">The Right One</title>
   </programme>
-  <programme start="20220213233500 +0700" stop="20220214011000 +0700" channel="HBO Hits">
+  <programme start="20220214113500 +0700" stop="20220214131500 +0700" channel="HBO Hits">
+    <title lang="id">Hercules</title>
+  </programme>
+  <programme start="20220214131500 +0700" stop="20220214144500 +0700" channel="HBO Hits">
+    <title lang="id">Ordinary Love</title>
+  </programme>
+  <programme start="20220214144500 +0700" stop="20220214162500 +0700" channel="HBO Hits">
+    <title lang="id">Despicable Me 2</title>
+  </programme>
+  <programme start="20220214162500 +0700" stop="20220214181000 +0700" channel="HBO Hits">
+    <title lang="id">The Way Back</title>
+  </programme>
+  <programme start="20220214181000 +0700" stop="20220214194500 +0700" channel="HBO Hits">
     <title lang="id">Daddy's Home</title>
   </programme>
-  <programme start="20220213090000 +0700" stop="20220213093000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">Klin Master</title>
+  <programme start="20220214194500 +0700" stop="20220214220000 +0700" channel="HBO Hits">
+    <title lang="id">Flight</title>
   </programme>
-  <programme start="20220213093000 +0700" stop="20220213100000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">Snore X</title>
+  <programme start="20220214220000 +0700" stop="20220215000500 +0700" channel="HBO Hits">
+    <title lang="id">Dark Waters</title>
   </programme>
-  <programme start="20220213100000 +0700" stop="20220213103000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">Enter Elektronik</title>
-  </programme>
-  <programme start="20220213103000 +0700" stop="20220213110000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">Jeido Power Laser</title>
-  </programme>
-  <programme start="20220213110000 +0700" stop="20220213113000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">Edu Qur'an</title>
-  </programme>
-  <programme start="20220213113000 +0700" stop="20220213120000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">Niko Kompor Hybrid</title>
-  </programme>
-  <programme start="20220213120000 +0700" stop="20220213123000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">EZ Black Cream</title>
-  </programme>
-  <programme start="20220213123000 +0700" stop="20220213130000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">Lock N Lock Air Fryer</title>
-  </programme>
-  <programme start="20220213130000 +0700" stop="20220213133000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">Al-Attar Health Necklace</title>
-  </programme>
-  <programme start="20220213133000 +0700" stop="20220213140000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">Big Saver</title>
-  </programme>
-  <programme start="20220213140000 +0700" stop="20220213143000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">IMO-100</title>
-  </programme>
-  <programme start="20220213143000 +0700" stop="20220213150000 +0700" channel="MSHOP Super Sale!">
+  <programme start="20220214093000 +0700" stop="20220214100000 +0700" channel="MSHOP Super Sale!">
     <title lang="id">Blankenheim Shoes</title>
   </programme>
-  <programme start="20220213150000 +0700" stop="20220213153000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">Enter Elektronik</title>
-  </programme>
-  <programme start="20220213153000 +0700" stop="20220213160000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">Klin Master</title>
-  </programme>
-  <programme start="20220213160000 +0700" stop="20220213163000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">Electrolux</title>
-  </programme>
-  <programme start="20220213163000 +0700" stop="20220213170000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">EZ Black Cream</title>
-  </programme>
-  <programme start="20220213170000 +0700" stop="20220213173000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">Al-Attar Jade Matras</title>
-  </programme>
-  <programme start="20220213173000 +0700" stop="20220213180000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">Intex Rest Raised Airbed</title>
-  </programme>
-  <programme start="20220213180000 +0700" stop="20220213183000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">Enter Elektronik</title>
-  </programme>
-  <programme start="20220213183000 +0700" stop="20220213190000 +0700" channel="MSHOP Super Sale!">
+  <programme start="20220214100000 +0700" stop="20220214103000 +0700" channel="MSHOP Super Sale!">
     <title lang="id">Home &amp; Home Air Fryer</title>
   </programme>
-  <programme start="20220213190000 +0700" stop="20220213193000 +0700" channel="MSHOP Super Sale!">
+  <programme start="20220214103000 +0700" stop="20220214110000 +0700" channel="MSHOP Super Sale!">
     <title lang="id">Al-Attar Health Necklace</title>
   </programme>
-  <programme start="20220213193000 +0700" stop="20220213200000 +0700" channel="MSHOP Super Sale!">
+  <programme start="20220214110000 +0700" stop="20220214113000 +0700" channel="MSHOP Super Sale!">
     <title lang="id">Klin Master</title>
   </programme>
-  <programme start="20220213200000 +0700" stop="20220213203000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">Zeus Underwear</title>
-  </programme>
-  <programme start="20220213203000 +0700" stop="20220213210000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">OHIMen</title>
-  </programme>
-  <programme start="20220213210000 +0700" stop="20220213213000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">Zeus Underwear</title>
-  </programme>
-  <programme start="20220213213000 +0700" stop="20220213220000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">Enter Elektronik</title>
-  </programme>
-  <programme start="20220213220000 +0700" stop="20220213223000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">Zeus Underwear</title>
-  </programme>
-  <programme start="20220213223000 +0700" stop="20220213230000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">X-Men Herbal</title>
-  </programme>
-  <programme start="20220213230000 +0700" stop="20220213233000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">Foxon Underwear</title>
-  </programme>
-  <programme start="20220213233000 +0700" stop="20220214000000 +0700" channel="MSHOP Super Sale!">
-    <title lang="id">Hongsam Korean Red Ginseng</title>
-  </programme>
-  <programme start="20220213090000 +0700" stop="20220213093000 +0700" channel="MSHOP Signature">
-    <title lang="id">Al-Attar Health Necklace</title>
-  </programme>
-  <programme start="20220213093000 +0700" stop="20220213100000 +0700" channel="MSHOP Signature">
-    <title lang="id">Big Saver</title>
-  </programme>
-  <programme start="20220213100000 +0700" stop="20220213103000 +0700" channel="MSHOP Signature">
-    <title lang="id">Rolens All Gold</title>
-  </programme>
-  <programme start="20220213103000 +0700" stop="20220213110000 +0700" channel="MSHOP Signature">
-    <title lang="id">Enter Elektronik</title>
-  </programme>
-  <programme start="20220213110000 +0700" stop="20220213113000 +0700" channel="MSHOP Signature">
-    <title lang="id">Jalkton</title>
-  </programme>
-  <programme start="20220213113000 +0700" stop="20220213120000 +0700" channel="MSHOP Signature">
-    <title lang="id">Electrolux</title>
-  </programme>
-  <programme start="20220213120000 +0700" stop="20220213123000 +0700" channel="MSHOP Signature">
-    <title lang="id">Intex Rest Raised Airbed</title>
-  </programme>
-  <programme start="20220213123000 +0700" stop="20220213130000 +0700" channel="MSHOP Signature">
-    <title lang="id">Lock N Lock Low Carbo</title>
-  </programme>
-  <programme start="20220213130000 +0700" stop="20220213133000 +0700" channel="MSHOP Signature">
-    <title lang="id">Allvino Air Sterilization</title>
-  </programme>
-  <programme start="20220213133000 +0700" stop="20220213140000 +0700" channel="MSHOP Signature">
-    <title lang="id">Lock N Lock Air Fryer</title>
-  </programme>
-  <programme start="20220213140000 +0700" stop="20220213143000 +0700" channel="MSHOP Signature">
-    <title lang="id">RG Soypep</title>
-  </programme>
-  <programme start="20220213143000 +0700" stop="20220213150000 +0700" channel="MSHOP Signature">
+  <programme start="20220214113000 +0700" stop="20220214120000 +0700" channel="MSHOP Super Sale!">
     <title lang="id">EZ Black Cream</title>
   </programme>
-  <programme start="20220213150000 +0700" stop="20220213153000 +0700" channel="MSHOP Signature">
-    <title lang="id">Lo Carbo</title>
+  <programme start="20220214120000 +0700" stop="20220214123000 +0700" channel="MSHOP Super Sale!">
+    <title lang="id">Al-Attar Jade Matras</title>
   </programme>
-  <programme start="20220213153000 +0700" stop="20220213160000 +0700" channel="MSHOP Signature">
-    <title lang="id">Royal Polo Kingsley Diana</title>
+  <programme start="20220214123000 +0700" stop="20220214130000 +0700" channel="MSHOP Super Sale!">
+    <title lang="id">Intex Rest Raised Airbed</title>
   </programme>
-  <programme start="20220213160000 +0700" stop="20220213163000 +0700" channel="MSHOP Signature">
-    <title lang="id">Tefal Natura</title>
-  </programme>
-  <programme start="20220213163000 +0700" stop="20220213170000 +0700" channel="MSHOP Signature">
-    <title lang="id">De Hoom Portable Sauna</title>
-  </programme>
-  <programme start="20220213170000 +0700" stop="20220213173000 +0700" channel="MSHOP Signature">
-    <title lang="id">Smart Keuken Multi Cooker</title>
-  </programme>
-  <programme start="20220213173000 +0700" stop="20220213180000 +0700" channel="MSHOP Signature">
+  <programme start="20220214130000 +0700" stop="20220214133000 +0700" channel="MSHOP Super Sale!">
     <title lang="id">Enter Elektronik</title>
   </programme>
-  <programme start="20220213180000 +0700" stop="20220213183000 +0700" channel="MSHOP Signature">
-    <title lang="id">She Slim</title>
+  <programme start="20220214133000 +0700" stop="20220214140000 +0700" channel="MSHOP Super Sale!">
+    <title lang="id">Dioly Cosmetic</title>
   </programme>
-  <programme start="20220213183000 +0700" stop="20220213190000 +0700" channel="MSHOP Signature">
-    <title lang="id">Jetz Scalar Energy</title>
-  </programme>
-  <programme start="20220213190000 +0700" stop="20220213193000 +0700" channel="MSHOP Signature">
+  <programme start="20220214140000 +0700" stop="20220214143000 +0700" channel="MSHOP Super Sale!">
     <title lang="id">Intex Rest Raised Airbed</title>
   </programme>
-  <programme start="20220213193000 +0700" stop="20220213200000 +0700" channel="MSHOP Signature">
-    <title lang="id">Anapara Belt</title>
+  <programme start="20220214143000 +0700" stop="20220214150000 +0700" channel="MSHOP Super Sale!">
+    <title lang="id">Zeus Therapy Bike</title>
   </programme>
-  <programme start="20220213200000 +0700" stop="20220213203000 +0700" channel="MSHOP Signature">
-    <title lang="id">Intex Rest Raised Airbed</title>
+  <programme start="20220214150000 +0700" stop="20220214153000 +0700" channel="MSHOP Super Sale!">
+    <title lang="id">Tefal Natura</title>
   </programme>
-  <programme start="20220213203000 +0700" stop="20220213210000 +0700" channel="MSHOP Signature">
-    <title lang="id">Zeus Underwear</title>
+  <programme start="20220214153000 +0700" stop="20220214160000 +0700" channel="MSHOP Super Sale!">
+    <title lang="id">Al-Attar Jade Matras</title>
   </programme>
-  <programme start="20220213210000 +0700" stop="20220213213000 +0700" channel="MSHOP Signature">
-    <title lang="id">Al-Attar Health Necklace</title>
+  <programme start="20220214160000 +0700" stop="20220214163000 +0700" channel="MSHOP Super Sale!">
+    <title lang="id">Klin Master</title>
   </programme>
-  <programme start="20220213213000 +0700" stop="20220213220000 +0700" channel="MSHOP Signature">
-    <title lang="id">Foxon Underwear</title>
+  <programme start="20220214163000 +0700" stop="20220214170000 +0700" channel="MSHOP Super Sale!">
+    <title lang="id">Snore X</title>
   </programme>
-  <programme start="20220213220000 +0700" stop="20220213223000 +0700" channel="MSHOP Signature">
-    <title lang="id">Forsta Elemento</title>
+  <programme start="20220214170000 +0700" stop="20220214173000 +0700" channel="MSHOP Super Sale!">
+    <title lang="id">Enter Elektronik</title>
   </programme>
-  <programme start="20220213223000 +0700" stop="20220213230000 +0700" channel="MSHOP Signature">
+  <programme start="20220214173000 +0700" stop="20220214180000 +0700" channel="MSHOP Super Sale!">
     <title lang="id">Jeido Power Laser</title>
   </programme>
-  <programme start="20220213230000 +0700" stop="20220213233000 +0700" channel="MSHOP Signature">
-    <title lang="id">Zeus Underwear</title>
+  <programme start="20220214180000 +0700" stop="20220214183000 +0700" channel="MSHOP Super Sale!">
+    <title lang="id">Edu Qur'an</title>
   </programme>
-  <programme start="20220213233000 +0700" stop="20220214000000 +0700" channel="MSHOP Signature">
+  <programme start="20220214183000 +0700" stop="20220214190000 +0700" channel="MSHOP Super Sale!">
+    <title lang="id">Niko Kompor Hybrid</title>
+  </programme>
+  <programme start="20220214190000 +0700" stop="20220214193000 +0700" channel="MSHOP Super Sale!">
+    <title lang="id">EZ Black Cream</title>
+  </programme>
+  <programme start="20220214193000 +0700" stop="20220214200000 +0700" channel="MSHOP Super Sale!">
+    <title lang="id">Lock N Lock Air Fryer</title>
+  </programme>
+  <programme start="20220214200000 +0700" stop="20220214203000 +0700" channel="MSHOP Super Sale!">
     <title lang="id">OHIMen</title>
   </programme>
-  <programme start="20220213083000 +0700" stop="20220213110000 +0700" channel="tvOne">
-    <title lang="id">Best World Boxing</title>
+  <programme start="20220214203000 +0700" stop="20220214210000 +0700" channel="MSHOP Super Sale!">
+    <title lang="id">Zeus Underwear</title>
   </programme>
-  <programme start="20220213110000 +0700" stop="20220213113000 +0700" channel="tvOne">
-    <title lang="id">Indonesia Plus</title>
+  <programme start="20220214210000 +0700" stop="20220214213000 +0700" channel="MSHOP Super Sale!">
+    <title lang="id">Hongsam Korean Red Ginseng</title>
   </programme>
-  <programme start="20220213113000 +0700" stop="20220213123000 +0700" channel="tvOne">
+  <programme start="20220214213000 +0700" stop="20220214220000 +0700" channel="MSHOP Super Sale!">
+    <title lang="id">Zeus Underwear</title>
+  </programme>
+  <programme start="20220214220000 +0700" stop="20220214223000 +0700" channel="MSHOP Super Sale!">
+    <title lang="id">X-Men Herbal</title>
+  </programme>
+  <programme start="20220214223000 +0700" stop="20220214230000 +0700" channel="MSHOP Super Sale!">
+    <title lang="id">Zeus Underwear</title>
+  </programme>
+  <programme start="20220214230000 +0700" stop="20220214233000 +0700" channel="MSHOP Super Sale!">
+    <title lang="id">Enter Elektronik</title>
+  </programme>
+  <programme start="20220214233000 +0700" stop="20220215000000 +0700" channel="MSHOP Super Sale!">
+    <title lang="id">Foxon Underwear</title>
+  </programme>
+  <programme start="20220214093000 +0700" stop="20220214100000 +0700" channel="MSHOP Signature">
+    <title lang="id">De Hoom Portable Sauna</title>
+  </programme>
+  <programme start="20220214100000 +0700" stop="20220214103000 +0700" channel="MSHOP Signature">
+    <title lang="id">Lock N Lock Stainless Steel Pot</title>
+  </programme>
+  <programme start="20220214103000 +0700" stop="20220214110000 +0700" channel="MSHOP Signature">
+    <title lang="id">Al-Attar Health Necklace</title>
+  </programme>
+  <programme start="20220214110000 +0700" stop="20220214113000 +0700" channel="MSHOP Signature">
+    <title lang="id">Lock N Lock Mix Hand Blender</title>
+  </programme>
+  <programme start="20220214113000 +0700" stop="20220214120000 +0700" channel="MSHOP Signature">
+    <title lang="id">Jalkton</title>
+  </programme>
+  <programme start="20220214120000 +0700" stop="20220214123000 +0700" channel="MSHOP Signature">
+    <title lang="id">Intex Rest Raised Airbed</title>
+  </programme>
+  <programme start="20220214123000 +0700" stop="20220214130000 +0700" channel="MSHOP Signature">
+    <title lang="id">Lock N Lock Low Carbo</title>
+  </programme>
+  <programme start="20220214130000 +0700" stop="20220214133000 +0700" channel="MSHOP Signature">
+    <title lang="id">Big Saver</title>
+  </programme>
+  <programme start="20220214133000 +0700" stop="20220214140000 +0700" channel="MSHOP Signature">
+    <title lang="id">Electrolux</title>
+  </programme>
+  <programme start="20220214140000 +0700" stop="20220214143000 +0700" channel="MSHOP Signature">
+    <title lang="id">Enter Elektronik</title>
+  </programme>
+  <programme start="20220214143000 +0700" stop="20220214150000 +0700" channel="MSHOP Signature">
+    <title lang="id">Rolens All Gold</title>
+  </programme>
+  <programme start="20220214150000 +0700" stop="20220214153000 +0700" channel="MSHOP Signature">
+    <title lang="id">Anapara Belt</title>
+  </programme>
+  <programme start="20220214153000 +0700" stop="20220214160000 +0700" channel="MSHOP Signature">
+    <title lang="id">Smart Keuken Multi Cooker</title>
+  </programme>
+  <programme start="20220214160000 +0700" stop="20220214163000 +0700" channel="MSHOP Signature">
+    <title lang="id">Enter Elektronik</title>
+  </programme>
+  <programme start="20220214163000 +0700" stop="20220214170000 +0700" channel="MSHOP Signature">
+    <title lang="id">She Slim</title>
+  </programme>
+  <programme start="20220214170000 +0700" stop="20220214173000 +0700" channel="MSHOP Signature">
+    <title lang="id">Allvino Air Sterilization</title>
+  </programme>
+  <programme start="20220214173000 +0700" stop="20220214180000 +0700" channel="MSHOP Signature">
+    <title lang="id">Lock N Lock Air Fryer</title>
+  </programme>
+  <programme start="20220214180000 +0700" stop="20220214183000 +0700" channel="MSHOP Signature">
+    <title lang="id">RG Soypep</title>
+  </programme>
+  <programme start="20220214183000 +0700" stop="20220214190000 +0700" channel="MSHOP Signature">
+    <title lang="id">EZ Black Cream</title>
+  </programme>
+  <programme start="20220214190000 +0700" stop="20220214193000 +0700" channel="MSHOP Signature">
+    <title lang="id">Jetz Scalar Energy</title>
+  </programme>
+  <programme start="20220214193000 +0700" stop="20220214200000 +0700" channel="MSHOP Signature">
+    <title lang="id">Intex Rest Raised Airbed</title>
+  </programme>
+  <programme start="20220214200000 +0700" stop="20220214203000 +0700" channel="MSHOP Signature">
+    <title lang="id">Forsta Elemento</title>
+  </programme>
+  <programme start="20220214203000 +0700" stop="20220214210000 +0700" channel="MSHOP Signature">
+    <title lang="id">Jeido Power Laser</title>
+  </programme>
+  <programme start="20220214210000 +0700" stop="20220214213000 +0700" channel="MSHOP Signature">
+    <title lang="id">Zeus Underwear</title>
+  </programme>
+  <programme start="20220214213000 +0700" stop="20220214220000 +0700" channel="MSHOP Signature">
+    <title lang="id">Intex Rest Raised Airbed</title>
+  </programme>
+  <programme start="20220214220000 +0700" stop="20220214223000 +0700" channel="MSHOP Signature">
+    <title lang="id">Foxon Underwear</title>
+  </programme>
+  <programme start="20220214223000 +0700" stop="20220214230000 +0700" channel="MSHOP Signature">
+    <title lang="id">Al-Attar Health Necklace</title>
+  </programme>
+  <programme start="20220214230000 +0700" stop="20220214233000 +0700" channel="MSHOP Signature">
+    <title lang="id">OHIMen</title>
+  </programme>
+  <programme start="20220214233000 +0700" stop="20220215000000 +0700" channel="MSHOP Signature">
+    <title lang="id">Zeus Underwear</title>
+  </programme>
+  <programme start="20220214090000 +0700" stop="20220214100000 +0700" channel="tvOne">
+    <title lang="id">Hidup Sehat</title>
+  </programme>
+  <programme start="20220214100000 +0700" stop="20220214103000 +0700" channel="tvOne">
+    <title lang="id">AB Shop</title>
+  </programme>
+  <programme start="20220214103000 +0700" stop="20220214110000 +0700" channel="tvOne">
+    <title lang="id">Sidik Jari</title>
+  </programme>
+  <programme start="20220214110000 +0700" stop="20220214130000 +0700" channel="tvOne">
     <title lang="id">Kabar Siang (L)</title>
   </programme>
-  <programme start="20220213123000 +0700" stop="20220213140000 +0700" channel="tvOne">
-    <title lang="id">14 Tahun Indonesia Bangkit</title>
+  <programme start="20220214130000 +0700" stop="20220214140000 +0700" channel="tvOne">
+    <title lang="id">Damai Indonesiaku</title>
   </programme>
-  <programme start="20220213140000 +0700" stop="20220213150000 +0700" channel="tvOne">
-    <title lang="id">One Prix</title>
+  <programme start="20220214140000 +0700" stop="20220214150000 +0700" channel="tvOne">
+    <title lang="id">Manusia Nusantara</title>
   </programme>
-  <programme start="20220213150000 +0700" stop="20220213153000 +0700" channel="tvOne">
-    <title lang="id">Football Vaganza</title>
+  <programme start="20220214150000 +0700" stop="20220214153000 +0700" channel="tvOne">
+    <title lang="id">Kabar Pasar Sore</title>
   </programme>
-  <programme start="20220213153000 +0700" stop="20220213160000 +0700" channel="tvOne">
+  <programme start="20220214153000 +0700" stop="20220214160000 +0700" channel="tvOne">
     <title lang="id">Ragam Perkara</title>
   </programme>
-  <programme start="20220213160000 +0700" stop="20220213170000 +0700" channel="tvOne">
+  <programme start="20220214160000 +0700" stop="20220214170000 +0700" channel="tvOne">
     <title lang="id">Kabar Petang Pilihan</title>
   </programme>
-  <programme start="20220213170000 +0700" stop="20220213183000 +0700" channel="tvOne">
+  <programme start="20220214170000 +0700" stop="20220214183000 +0700" channel="tvOne">
     <title lang="id">Kabar Petang (L)</title>
   </programme>
-  <programme start="20220213183000 +0700" stop="20220213200000 +0700" channel="tvOne">
+  <programme start="20220214183000 +0700" stop="20220214200000 +0700" channel="tvOne">
     <title lang="id">Apa Kabar Indonesia Malam (L)</title>
   </programme>
-  <programme start="20220213200000 +0700" stop="20220213220000 +0700" channel="tvOne">
-    <title lang="id">Tjoet Nja' Dhien</title>
+  <programme start="20220214200000 +0700" stop="20220214223000 +0700" channel="tvOne">
+    <title lang="id">Dialog Calon Pemimpin Bangsa</title>
   </programme>
-  <programme start="20220213220000 +0700" stop="20220213230000 +0700" channel="tvOne">
+  <programme start="20220214223000 +0700" stop="20220214233000 +0700" channel="tvOne">
     <title lang="id">Kabar Hari Ini</title>
   </programme>
-  <programme start="20220213230000 +0700" stop="20220214013000 +0700" channel="tvOne">
-    <title lang="id">tvOne</title>
+  <programme start="20220214233000 +0700" stop="20220215000000 +0700" channel="tvOne">
+    <title lang="id">Kabar Arena Malam</title>
   </programme>
-  <programme start="20220213060000 +0700" stop="20220213093000 +0700" channel="ANTV">
-    <title lang="id">Chori Chori Chupke Chupke</title>
+  <programme start="20220214083000 +0700" stop="20220214100000 +0700" channel="ANTV">
+    <title lang="id">Kulfi</title>
   </programme>
-  <programme start="20220213093000 +0700" stop="20220213103000 +0700" channel="ANTV">
-    <title lang="id">The Andarans</title>
-  </programme>
-  <programme start="20220213103000 +0700" stop="20220213110000 +0700" channel="ANTV">
-    <title lang="id">Amazing Baby Star</title>
-  </programme>
-  <programme start="20220213110000 +0700" stop="20220213123000 +0700" channel="ANTV">
+  <programme start="20220214100000 +0700" stop="20220214120000 +0700" channel="ANTV">
     <title lang="id">Gopi</title>
   </programme>
-  <programme start="20220213123000 +0700" stop="20220213133000 +0700" channel="ANTV">
+  <programme start="20220214120000 +0700" stop="20220214133000 +0700" channel="ANTV">
     <title lang="id">Silsila</title>
   </programme>
-  <programme start="20220213133000 +0700" stop="20220213170000 +0700" channel="ANTV">
+  <programme start="20220214133000 +0700" stop="20220214170000 +0700" channel="ANTV">
     <title lang="id">Balika Vadhu</title>
   </programme>
-  <programme start="20220213170000 +0700" stop="20220213193000 +0700" channel="ANTV">
+  <programme start="20220214170000 +0700" stop="20220214193000 +0700" channel="ANTV">
     <title lang="id">Terpaksa Menikahi Tuan Muda</title>
   </programme>
-  <programme start="20220213193000 +0700" stop="20220213203000 +0700" channel="ANTV">
+  <programme start="20220214193000 +0700" stop="20220214213000 +0700" channel="ANTV">
     <title lang="id">Menolak Talak</title>
   </programme>
-  <programme start="20220213203000 +0700" stop="20220213233000 +0700" channel="ANTV">
-    <title lang="id">Mega Konser Tercipta Untukku</title>
+  <programme start="20220214213000 +0700" stop="20220214230000 +0700" channel="ANTV">
+    <title lang="id">Kun Fayakun</title>
   </programme>
-  <programme start="20220213233000 +0700" stop="20220214000000 +0700" channel="ANTV">
+  <programme start="20220214230000 +0700" stop="20220215003000 +0700" channel="ANTV">
     <title lang="id">Jodoh Wasiat Bapak</title>
   </programme>
-  <programme start="20220213090000 +0700" stop="20220213104000 +0700" channel="HBO HD">
-    <title lang="id">My Spy</title>
+  <programme start="20220214081000 +0700" stop="20220214100000 +0700" channel="HBO HD">
+    <title lang="id">Me Before You</title>
   </programme>
-  <programme start="20220213104000 +0700" stop="20220213121000 +0700" channel="HBO HD">
-    <title lang="id">Minions</title>
-  </programme>
-  <programme start="20220213121000 +0700" stop="20220213141000 +0700" channel="HBO HD">
-    <title lang="id">The Equalizer 2</title>
-  </programme>
-  <programme start="20220213141000 +0700" stop="20220213161500 +0700" channel="HBO HD">
-    <title lang="id">Judas And The Black Messiah</title>
-  </programme>
-  <programme start="20220213161500 +0700" stop="20220213181000 +0700" channel="HBO HD">
-    <title lang="id">G.I. Joe: The Rise Of Cobra</title>
-  </programme>
-  <programme start="20220213181000 +0700" stop="20220213200000 +0700" channel="HBO HD">
-    <title lang="id">Promising Young Woman</title>
-  </programme>
-  <programme start="20220213200000 +0700" stop="20220213214500 +0700" channel="HBO HD">
-    <title lang="id">The Marksman</title>
-  </programme>
-  <programme start="20220213214500 +0700" stop="20220213234000 +0700" channel="HBO HD">
-    <title lang="id">Mad Max: Fury Road</title>
-  </programme>
-  <programme start="20220213234000 +0700" stop="20220214014000 +0700" channel="HBO HD">
-    <title lang="id">Knowing</title>
-  </programme>
-  <programme start="20220213081500 +0700" stop="20220213100500 +0700" channel="CINEMAX HD">
-    <title lang="id">Blumhouse's Fantasy Island</title>
-  </programme>
-  <programme start="20220213100500 +0700" stop="20220213122500 +0700" channel="CINEMAX HD">
-    <title lang="id">13 Hours</title>
-  </programme>
-  <programme start="20220213122500 +0700" stop="20220213140500 +0700" channel="CINEMAX HD">
-    <title lang="id">Dragonheart: Vengeance</title>
-  </programme>
-  <programme start="20220213140500 +0700" stop="20220213154500 +0700" channel="CINEMAX HD">
-    <title lang="id">Without A Paddle</title>
-  </programme>
-  <programme start="20220213154500 +0700" stop="20220213172500 +0700" channel="CINEMAX HD">
-    <title lang="id">Pure Luck</title>
-  </programme>
-  <programme start="20220213172500 +0700" stop="20220213190000 +0700" channel="CINEMAX HD">
-    <title lang="id">The Gathering Storm</title>
-  </programme>
-  <programme start="20220213190000 +0700" stop="20220213210000 +0700" channel="CINEMAX HD">
-    <title lang="id">The Chronicles Of Riddick</title>
-  </programme>
-  <programme start="20220213210000 +0700" stop="20220213224500 +0700" channel="CINEMAX HD">
-    <title lang="id">Cop Out</title>
-  </programme>
-  <programme start="20220213224500 +0700" stop="20220214000500 +0700" channel="CINEMAX HD">
-    <title lang="id">The Dictator</title>
-  </programme>
-  <programme start="20220213090000 +0700" stop="20220213093000 +0700" channel="HBO Family HD">
-    <title lang="id">Jamie Johnson</title>
-  </programme>
-  <programme start="20220213093000 +0700" stop="20220213100000 +0700" channel="HBO Family HD">
-    <title lang="id">Jamie Johnson</title>
-  </programme>
-  <programme start="20220213100000 +0700" stop="20220213103500 +0700" channel="HBO Family HD">
-    <title lang="id">Jamie Johnson</title>
-  </programme>
-  <programme start="20220213103500 +0700" stop="20220213120000 +0700" channel="HBO Family HD">
-    <title lang="id">Teen Titans Go! See Space Jam</title>
-  </programme>
-  <programme start="20220213120000 +0700" stop="20220213134000 +0700" channel="HBO Family HD">
-    <title lang="id">A Cinderella Story: Starstruck</title>
-  </programme>
-  <programme start="20220213134000 +0700" stop="20220213150000 +0700" channel="HBO Family HD">
-    <title lang="id">Happy Halloween, Scooby-Doo!</title>
-  </programme>
-  <programme start="20220213150000 +0700" stop="20220213162500 +0700" channel="HBO Family HD">
-    <title lang="id">Dr. Seuss' The Grinch Musical!</title>
-  </programme>
-  <programme start="20220213162500 +0700" stop="20220213180000 +0700" channel="HBO Family HD">
-    <title lang="id">Come Away</title>
-  </programme>
-  <programme start="20220213180000 +0700" stop="20220213193000 +0700" channel="HBO Family HD">
-    <title lang="id">Alvin &amp; Chipmunks: Squeakquel</title>
-  </programme>
-  <programme start="20220213193000 +0700" stop="20220213205500 +0700" channel="HBO Family HD">
-    <title lang="id">Alvin &amp; Chipmunks: Chipwrecked</title>
-  </programme>
-  <programme start="20220213205500 +0700" stop="20220213210500 +0700" channel="HBO Family HD">
-    <title lang="id">The Tom &amp; Jerry Show</title>
-  </programme>
-  <programme start="20220213210500 +0700" stop="20220213211500 +0700" channel="HBO Family HD">
-    <title lang="id">The Tom &amp; Jerry Show</title>
-  </programme>
-  <programme start="20220213211500 +0700" stop="20220213212400 +0700" channel="HBO Family HD">
-    <title lang="id">The Tom &amp; Jerry Show</title>
-  </programme>
-  <programme start="20220213212400 +0700" stop="20220213213400 +0700" channel="HBO Family HD">
-    <title lang="id">The Tom &amp; Jerry Show</title>
-  </programme>
-  <programme start="20220213213400 +0700" stop="20220213214400 +0700" channel="HBO Family HD">
-    <title lang="id">The Tom &amp; Jerry Show</title>
-  </programme>
-  <programme start="20220213214400 +0700" stop="20220213215400 +0700" channel="HBO Family HD">
-    <title lang="id">The Tom &amp; Jerry Show</title>
-  </programme>
-  <programme start="20220213215400 +0700" stop="20220213220400 +0700" channel="HBO Family HD">
-    <title lang="id">The Tom &amp; Jerry Show</title>
-  </programme>
-  <programme start="20220213220400 +0700" stop="20220213221400 +0700" channel="HBO Family HD">
-    <title lang="id">The Tom &amp; Jerry Show</title>
-  </programme>
-  <programme start="20220213221400 +0700" stop="20220213222400 +0700" channel="HBO Family HD">
-    <title lang="id">The Tom &amp; Jerry Show</title>
-  </programme>
-  <programme start="20220213222400 +0700" stop="20220213224500 +0700" channel="HBO Family HD">
-    <title lang="id">The Tom &amp; Jerry Show</title>
-  </programme>
-  <programme start="20220213224500 +0700" stop="20220213231200 +0700" channel="HBO Family HD">
-    <title lang="id">Jamie Johnson</title>
-  </programme>
-  <programme start="20220213231200 +0700" stop="20220213234000 +0700" channel="HBO Family HD">
-    <title lang="id">Jamie Johnson</title>
-  </programme>
-  <programme start="20220213234000 +0700" stop="20220214001500 +0700" channel="HBO Family HD">
-    <title lang="id">Jamie Johnson</title>
-  </programme>
-  <programme start="20220213073500 +0700" stop="20220213092500 +0700" channel="HBO Hits HD">
-    <title lang="id">Geostorm</title>
-  </programme>
-  <programme start="20220213092500 +0700" stop="20220213110500 +0700" channel="HBO Hits HD">
-    <title lang="id">Daddy's Home</title>
-  </programme>
-  <programme start="20220213110500 +0700" stop="20220213124000 +0700" channel="HBO Hits HD">
-    <title lang="id">Despicable Me 2</title>
-  </programme>
-  <programme start="20220213124000 +0700" stop="20220213145500 +0700" channel="HBO Hits HD">
-    <title lang="id">Flight</title>
-  </programme>
-  <programme start="20220213145500 +0700" stop="20220213152500 +0700" channel="HBO Hits HD">
-    <title lang="id">Hollywood On Set S1</title>
-  </programme>
-  <programme start="20220213152500 +0700" stop="20220213165500 +0700" channel="HBO Hits HD">
-    <title lang="id">Passengers</title>
-  </programme>
-  <programme start="20220213165500 +0700" stop="20220213184000 +0700" channel="HBO Hits HD">
-    <title lang="id">The Photograph</title>
-  </programme>
-  <programme start="20220213184000 +0700" stop="20220213202000 +0700" channel="HBO Hits HD">
-    <title lang="id">Red Riding Hood</title>
-  </programme>
-  <programme start="20220213202000 +0700" stop="20220213220000 +0700" channel="HBO Hits HD">
-    <title lang="id">Hercules</title>
-  </programme>
-  <programme start="20220213220000 +0700" stop="20220213233500 +0700" channel="HBO Hits HD">
-    <title lang="id">The Right One</title>
-  </programme>
-  <programme start="20220213233500 +0700" stop="20220214011000 +0700" channel="HBO Hits HD">
-    <title lang="id">Daddy's Home</title>
-  </programme>
-  <programme start="20220213073500 +0700" stop="20220213092500 +0700" channel="HBO Signature HD">
-    <title lang="id">Save The Last Dance</title>
-  </programme>
-  <programme start="20220213092500 +0700" stop="20220213102500 +0700" channel="HBO Signature HD">
-    <title lang="id">The Gilded Age</title>
-  </programme>
-  <programme start="20220213102500 +0700" stop="20220213124500 +0700" channel="HBO Signature HD">
-    <title lang="id">Gone Girl</title>
-  </programme>
-  <programme start="20220213124500 +0700" stop="20220213145500 +0700" channel="HBO Signature HD">
-    <title lang="id">American Sniper</title>
-  </programme>
-  <programme start="20220213145500 +0700" stop="20220213165000 +0700" channel="HBO Signature HD">
-    <title lang="id">The High Note</title>
-  </programme>
-  <programme start="20220213165000 +0700" stop="20220213182000 +0700" channel="HBO Signature HD">
-    <title lang="id">The Fever</title>
-  </programme>
-  <programme start="20220213182000 +0700" stop="20220213200000 +0700" channel="HBO Signature HD">
-    <title lang="id">Six Minutes To Midnight</title>
-  </programme>
-  <programme start="20220213200000 +0700" stop="20220213203000 +0700" channel="HBO Signature HD">
+  <programme start="20220214100000 +0700" stop="20220214104000 +0700" channel="HBO HD">
     <title lang="id">Righteous Gemstones</title>
   </programme>
-  <programme start="20220213203000 +0700" stop="20220213210000 +0700" channel="HBO Signature HD">
+  <programme start="20220214104000 +0700" stop="20220214111000 +0700" channel="HBO HD">
     <title lang="id">Somebody Somewhere</title>
   </programme>
-  <programme start="20220213210000 +0700" stop="20220213230000 +0700" channel="HBO Signature HD">
-    <title lang="id">The Town</title>
+  <programme start="20220214111000 +0700" stop="20220214125500 +0700" channel="HBO HD">
+    <title lang="id">The Marksman</title>
   </programme>
-  <programme start="20220213230000 +0700" stop="20220214004000 +0700" channel="HBO Signature HD">
+  <programme start="20220214125500 +0700" stop="20220214151500 +0700" channel="HBO HD">
+    <title lang="id">Into The Wild</title>
+  </programme>
+  <programme start="20220214151500 +0700" stop="20220214170500 +0700" channel="HBO HD">
+    <title lang="id">Promising Young Woman</title>
+  </programme>
+  <programme start="20220214170500 +0700" stop="20220214190500 +0700" channel="HBO HD">
+    <title lang="id">Emma.</title>
+  </programme>
+  <programme start="20220214190500 +0700" stop="20220214210000 +0700" channel="HBO HD">
+    <title lang="id">Crazy, Stupid, Love</title>
+  </programme>
+  <programme start="20220214210000 +0700" stop="20220214214000 +0700" channel="HBO HD">
+    <title lang="id">Righteous Gemstones</title>
+  </programme>
+  <programme start="20220214214000 +0700" stop="20220214221000 +0700" channel="HBO HD">
+    <title lang="id">Somebody Somewhere</title>
+  </programme>
+  <programme start="20220214221000 +0700" stop="20220214231000 +0700" channel="HBO HD">
+    <title lang="id">Euphoria</title>
+  </programme>
+  <programme start="20220214231000 +0700" stop="20220215015500 +0700" channel="HBO HD">
+    <title lang="id">The Aviator</title>
+  </programme>
+  <programme start="20220214085500 +0700" stop="20220214102500 +0700" channel="CINEMAX HD">
+    <title lang="id">Rush Hour 2</title>
+  </programme>
+  <programme start="20220214102500 +0700" stop="20220214121000 +0700" channel="CINEMAX HD">
+    <title lang="id">The Italian Job</title>
+  </programme>
+  <programme start="20220214121000 +0700" stop="20220214140500 +0700" channel="CINEMAX HD">
+    <title lang="id">47 Ronin</title>
+  </programme>
+  <programme start="20220214140500 +0700" stop="20220214154000 +0700" channel="CINEMAX HD">
+    <title lang="id">Pure Luck</title>
+  </programme>
+  <programme start="20220214154000 +0700" stop="20220214172000 +0700" channel="CINEMAX HD">
+    <title lang="id">The Gathering Storm</title>
+  </programme>
+  <programme start="20220214172000 +0700" stop="20220214185500 +0700" channel="CINEMAX HD">
+    <title lang="id">The Perfect Score</title>
+  </programme>
+  <programme start="20220214185500 +0700" stop="20220214210000 +0700" channel="CINEMAX HD">
+    <title lang="id">Allied</title>
+  </programme>
+  <programme start="20220214210000 +0700" stop="20220214224000 +0700" channel="CINEMAX HD">
+    <title lang="id">Horrible Bosses</title>
+  </programme>
+  <programme start="20220214224000 +0700" stop="20220215002500 +0700" channel="CINEMAX HD">
+    <title lang="id">Horrible Bosses 2</title>
+  </programme>
+  <programme start="20220214093000 +0700" stop="20220214100000 +0700" channel="HBO Family HD">
+    <title lang="id">Happily Ever After</title>
+  </programme>
+  <programme start="20220214100000 +0700" stop="20220214113000 +0700" channel="HBO Family HD">
+    <title lang="id">Alvin &amp; Chipmunks: Squeakquel</title>
+  </programme>
+  <programme start="20220214113000 +0700" stop="20220214130000 +0700" channel="HBO Family HD">
+    <title lang="id">Alvin &amp; Chipmunks: Chipwrecked</title>
+  </programme>
+  <programme start="20220214130000 +0700" stop="20220214133000 +0700" channel="HBO Family HD">
+    <title lang="id">Crashbox</title>
+  </programme>
+  <programme start="20220214133000 +0700" stop="20220214140000 +0700" channel="HBO Family HD">
+    <title lang="id">Crashbox</title>
+  </programme>
+  <programme start="20220214140000 +0700" stop="20220214143000 +0700" channel="HBO Family HD">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20220214143000 +0700" stop="20220214150000 +0700" channel="HBO Family HD">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20220214150000 +0700" stop="20220214153000 +0700" channel="HBO Family HD">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20220214153000 +0700" stop="20220214160000 +0700" channel="HBO Family HD">
+    <title lang="id">Sesame Street</title>
+  </programme>
+  <programme start="20220214160000 +0700" stop="20220214161500 +0700" channel="HBO Family HD">
+    <title lang="id">The Tom &amp; Jerry Show</title>
+  </programme>
+  <programme start="20220214161500 +0700" stop="20220214163000 +0700" channel="HBO Family HD">
+    <title lang="id">The Tom &amp; Jerry Show</title>
+  </programme>
+  <programme start="20220214163000 +0700" stop="20220214164500 +0700" channel="HBO Family HD">
+    <title lang="id">The Tom &amp; Jerry Show</title>
+  </programme>
+  <programme start="20220214164500 +0700" stop="20220214170000 +0700" channel="HBO Family HD">
+    <title lang="id">The Tom &amp; Jerry Show</title>
+  </programme>
+  <programme start="20220214170000 +0700" stop="20220214173000 +0700" channel="HBO Family HD">
+    <title lang="id">Jamie Johnson</title>
+  </programme>
+  <programme start="20220214173000 +0700" stop="20220214180000 +0700" channel="HBO Family HD">
+    <title lang="id">Jamie Johnson</title>
+  </programme>
+  <programme start="20220214180000 +0700" stop="20220214195000 +0700" channel="HBO Family HD">
+    <title lang="id">Monte Carlo</title>
+  </programme>
+  <programme start="20220214195000 +0700" stop="20220214212000 +0700" channel="HBO Family HD">
+    <title lang="id">Fantastic Mr. Fox</title>
+  </programme>
+  <programme start="20220214212000 +0700" stop="20220214230000 +0700" channel="HBO Family HD">
+    <title lang="id">Big Momma's House</title>
+  </programme>
+  <programme start="20220214230000 +0700" stop="20220214233000 +0700" channel="HBO Family HD">
+    <title lang="id">Jamie Johnson</title>
+  </programme>
+  <programme start="20220214233000 +0700" stop="20220215000500 +0700" channel="HBO Family HD">
+    <title lang="id">Jamie Johnson</title>
+  </programme>
+  <programme start="20220214082000 +0700" stop="20220214100000 +0700" channel="HBO Hits HD">
+    <title lang="id">Red Riding Hood</title>
+  </programme>
+  <programme start="20220214100000 +0700" stop="20220214113500 +0700" channel="HBO Hits HD">
+    <title lang="id">The Right One</title>
+  </programme>
+  <programme start="20220214113500 +0700" stop="20220214131500 +0700" channel="HBO Hits HD">
+    <title lang="id">Hercules</title>
+  </programme>
+  <programme start="20220214131500 +0700" stop="20220214144500 +0700" channel="HBO Hits HD">
+    <title lang="id">Ordinary Love</title>
+  </programme>
+  <programme start="20220214144500 +0700" stop="20220214162500 +0700" channel="HBO Hits HD">
+    <title lang="id">Despicable Me 2</title>
+  </programme>
+  <programme start="20220214162500 +0700" stop="20220214181000 +0700" channel="HBO Hits HD">
+    <title lang="id">The Way Back</title>
+  </programme>
+  <programme start="20220214181000 +0700" stop="20220214194500 +0700" channel="HBO Hits HD">
+    <title lang="id">Daddy's Home</title>
+  </programme>
+  <programme start="20220214194500 +0700" stop="20220214220000 +0700" channel="HBO Hits HD">
+    <title lang="id">Flight</title>
+  </programme>
+  <programme start="20220214220000 +0700" stop="20220215000500 +0700" channel="HBO Hits HD">
+    <title lang="id">Dark Waters</title>
+  </programme>
+  <programme start="20220214083000 +0700" stop="20220214101500 +0700" channel="HBO Signature HD">
+    <title lang="id">Rocky 5</title>
+  </programme>
+  <programme start="20220214101500 +0700" stop="20220214104000 +0700" channel="HBO Signature HD">
+    <title lang="id">Hollywood On Set</title>
+  </programme>
+  <programme start="20220214104000 +0700" stop="20220214122000 +0700" channel="HBO Signature HD">
+    <title lang="id">Six Minutes To Midnight</title>
+  </programme>
+  <programme start="20220214122000 +0700" stop="20220214143000 +0700" channel="HBO Signature HD">
+    <title lang="id">The Accountant</title>
+  </programme>
+  <programme start="20220214143000 +0700" stop="20220214160000 +0700" channel="HBO Signature HD">
+    <title lang="id">Colors Of Love</title>
+  </programme>
+  <programme start="20220214160000 +0700" stop="20220214174000 +0700" channel="HBO Signature HD">
     <title lang="id">Audrey</title>
+  </programme>
+  <programme start="20220214174000 +0700" stop="20220214192500 +0700" channel="HBO Signature HD">
+    <title lang="id">Aloha</title>
+  </programme>
+  <programme start="20220214192500 +0700" stop="20220214210000 +0700" channel="HBO Signature HD">
+    <title lang="id">After Truth: Disinformation...</title>
+  </programme>
+  <programme start="20220214210000 +0700" stop="20220214224000 +0700" channel="HBO Signature HD">
+    <title lang="id">Never Rarely Sometimes Always</title>
+  </programme>
+  <programme start="20220214224000 +0700" stop="20220215003000 +0700" channel="HBO Signature HD">
+    <title lang="id">Deadwood: The Movie</title>
+  </programme>
+    <channel id="Trans7">
+    <display-name lang="id">Trans7</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_110.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="SCTV">
+    <display-name lang="id">SCTV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/sctv.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="Fight Sports">
+    <display-name lang="id">Fight Sports</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="SONE">
+    <display-name lang="id">SONE</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_445.png" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="id">AXN</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/axn_150x150.jpg" />
+    <url>http://www.mncvision.id.E</url>
+  </channel>
+  <programme start="20220214090000 +0700" stop="20220214103000 +0700" channel="Trans7">
+    <title lang="id">Bercanda Pagi</title>
+  </programme>
+  <programme start="20220214103000 +0700" stop="20220214110000 +0700" channel="Trans7">
+    <title lang="id">Heits Abis</title>
+  </programme>
+  <programme start="20220214110000 +0700" stop="20220214113000 +0700" channel="Trans7">
+    <title lang="id">Trending</title>
+  </programme>
+  <programme start="20220214113000 +0700" stop="20220214120000 +0700" channel="Trans7">
+    <title lang="id">Banting Setir</title>
+  </programme>
+  <programme start="20220214120000 +0700" stop="20220214123000 +0700" channel="Trans7">
+    <title lang="id">Si Unyil</title>
+  </programme>
+  <programme start="20220214123000 +0700" stop="20220214130000 +0700" channel="Trans7">
+    <title lang="id">Si Bolang: Bocah Petualang</title>
+  </programme>
+  <programme start="20220214130000 +0700" stop="20220214133000 +0700" channel="Trans7">
+    <title lang="id">Si Otan</title>
+  </programme>
+  <programme start="20220214133000 +0700" stop="20220214141500 +0700" channel="Trans7">
+    <title lang="id">Indonesiaku</title>
+  </programme>
+  <programme start="20220214141500 +0700" stop="20220214151500 +0700" channel="Trans7">
+    <title lang="id">Redaksi (L)</title>
+  </programme>
+  <programme start="20220214151500 +0700" stop="20220214161500 +0700" channel="Trans7">
+    <title lang="id">Jejak Si Gundul</title>
+  </programme>
+  <programme start="20220214161500 +0700" stop="20220214171500 +0700" channel="Trans7">
+    <title lang="id">Makan Receh</title>
+  </programme>
+  <programme start="20220214171500 +0700" stop="20220214180000 +0700" channel="Trans7">
+    <title lang="id">Selebrita Expose</title>
+  </programme>
+  <programme start="20220214180000 +0700" stop="20220214190000 +0700" channel="Trans7">
+    <title lang="id">On The Spot</title>
+  </programme>
+  <programme start="20220214190000 +0700" stop="20220214201500 +0700" channel="Trans7">
+    <title lang="id">The Police</title>
+  </programme>
+  <programme start="20220214201500 +0700" stop="20220214213000 +0700" channel="Trans7">
+    <title lang="id">Anak Sekolah</title>
+  </programme>
+  <programme start="20220214213000 +0700" stop="20220214224500 +0700" channel="Trans7">
+    <title lang="id">Lapor Pak!</title>
+  </programme>
+  <programme start="20220214224500 +0700" stop="20220214231500 +0700" channel="Trans7">
+    <title lang="id">Krim Malam</title>
+  </programme>
+  <programme start="20220214231500 +0700" stop="20220214234500 +0700" channel="Trans7">
+    <title lang="id">Misteri Dunia</title>
+  </programme>
+  <programme start="20220214234500 +0700" stop="20220215001500 +0700" channel="Trans7">
+    <title lang="id">Redaksi Malam (L)</title>
+  </programme>
+  <programme start="20220214093000 +0700" stop="20220214113000 +0700" channel="SCTV">
+    <title lang="id">FTV Pagi</title>
+  </programme>
+  <programme start="20220214113000 +0700" stop="20220214120000 +0700" channel="SCTV">
+    <title lang="id">Liputan 6 Siang</title>
+  </programme>
+  <programme start="20220214120000 +0700" stop="20220214142000 +0700" channel="SCTV">
+    <title lang="id">FTV Siang</title>
+  </programme>
+  <programme start="20220214142000 +0700" stop="20220214153000 +0700" channel="SCTV">
+    <title lang="id">Dari Jendela SMP</title>
+  </programme>
+  <programme start="20220214153000 +0700" stop="20220214171500 +0700" channel="SCTV">
+    <title lang="id">Suster El</title>
+  </programme>
+  <programme start="20220214171500 +0700" stop="20220214191500 +0700" channel="SCTV">
+    <title lang="id">Love Story The Series</title>
+  </programme>
+  <programme start="20220214191500 +0700" stop="20220214211500 +0700" channel="SCTV">
+    <title lang="id">Dewi Rindu</title>
+  </programme>
+  <programme start="20220214211500 +0700" stop="20220214231500 +0700" channel="SCTV">
+    <title lang="id">Buku Harian Seorang Istri</title>
+  </programme>
+  <programme start="20220214231500 +0700" stop="20220215011500 +0700" channel="SCTV">
+    <title lang="id">The Sultant Entertainment</title>
+  </programme>
+  <programme start="20220214100000 +0700" stop="20220214110000 +0700" channel="Fight Sports">
+    <title lang="id">Fight Quest</title>
+  </programme>
+  <programme start="20220214110000 +0700" stop="20220214120000 +0700" channel="Fight Sports">
+    <title lang="id">MMA: Best Knockouts Of Year</title>
+  </programme>
+  <programme start="20220214120000 +0700" stop="20220214130000 +0700" channel="Fight Sports">
+    <title lang="id">Mega Fights In 60</title>
+  </programme>
+  <programme start="20220214130000 +0700" stop="20220214150000 +0700" channel="Fight Sports">
+    <title lang="id">WCCB: Taylor Vs Carlos Ramirez</title>
+  </programme>
+  <programme start="20220214150000 +0700" stop="20220214153000 +0700" channel="Fight Sports">
+    <title lang="id">Knockouts!: Morales Vs Maidana</title>
+  </programme>
+  <programme start="20220214153000 +0700" stop="20220214160000 +0700" channel="Fight Sports">
+    <title lang="id">Grand Sumo</title>
+  </programme>
+  <programme start="20220214160000 +0700" stop="20220214170000 +0700" channel="Fight Sports">
+    <title lang="id">Fight Quest</title>
+  </programme>
+  <programme start="20220214170000 +0700" stop="20220214180000 +0700" channel="Fight Sports">
+    <title lang="id">MMA: Best Knockouts Of Year</title>
+  </programme>
+  <programme start="20220214180000 +0700" stop="20220214203000 +0700" channel="Fight Sports">
+    <title lang="id">Mega Fights</title>
+  </programme>
+  <programme start="20220214203000 +0700" stop="20220214210000 +0700" channel="Fight Sports">
+    <title lang="id">BWF Martial Arts</title>
+  </programme>
+  <programme start="20220214210000 +0700" stop="20220214213000 +0700" channel="Fight Sports">
+    <title lang="id">Knockouts!: Hopkins Vs Dawson</title>
+  </programme>
+  <programme start="20220214213000 +0700" stop="20220214220000 +0700" channel="Fight Sports">
+    <title lang="id">Grand Sumo</title>
+  </programme>
+  <programme start="20220214220000 +0700" stop="20220214223000 +0700" channel="Fight Sports">
+    <title lang="id">Bipolar Rock N' Roller</title>
+  </programme>
+  <programme start="20220214223000 +0700" stop="20220214230000 +0700" channel="Fight Sports">
+    <title lang="id">Wide World Of Fights</title>
+  </programme>
+  <programme start="20220214230000 +0700" stop="20220215000000 +0700" channel="Fight Sports">
+    <title lang="id">MMA: Best Submissions Of Year</title>
+  </programme>
+  <programme start="20220214095000 +0700" stop="20220214103500 +0700" channel="SONE">
+    <title lang="id">My Mother Is A...</title>
+  </programme>
+  <programme start="20220214103500 +0700" stop="20220214112500 +0700" channel="SONE">
+    <title lang="id">My Mother Is A...</title>
+  </programme>
+  <programme start="20220214112500 +0700" stop="20220214133000 +0700" channel="SONE">
+    <title lang="id">My Little Old Boy</title>
+  </programme>
+  <programme start="20220214133000 +0700" stop="20220214135000 +0700" channel="SONE">
+    <title lang="id">K-Hits</title>
+  </programme>
+  <programme start="20220214135000 +0700" stop="20220214152100 +0700" channel="SONE">
+    <title lang="id">Master In The House</title>
+  </programme>
+  <programme start="20220214152100 +0700" stop="20220214170000 +0700" channel="SONE">
+    <title lang="id">Running Man</title>
+  </programme>
+  <programme start="20220214170000 +0700" stop="20220214174100 +0700" channel="SONE">
+    <title lang="id">Unasked Family</title>
+  </programme>
+  <programme start="20220214174100 +0700" stop="20220214182200 +0700" channel="SONE">
+    <title lang="id">Unasked Family</title>
+  </programme>
+  <programme start="20220214182200 +0700" stop="20220214190300 +0700" channel="SONE">
+    <title lang="id">Unasked Family</title>
+  </programme>
+  <programme start="20220214190300 +0700" stop="20220214194400 +0700" channel="SONE">
+    <title lang="id">Unasked Family</title>
+  </programme>
+  <programme start="20220214194400 +0700" stop="20220214203000 +0700" channel="SONE">
+    <title lang="id">Unasked Family</title>
+  </programme>
+  <programme start="20220214203000 +0700" stop="20220214223500 +0700" channel="SONE">
+    <title lang="id">My Little Old Boy</title>
+  </programme>
+  <programme start="20220214223500 +0700" stop="20220214225500 +0700" channel="SONE">
+    <title lang="id">K-Hits</title>
+  </programme>
+  <programme start="20220214225500 +0700" stop="20220214233500 +0700" channel="SONE">
+    <title lang="id">Doctor Room</title>
+  </programme>
+  <programme start="20220214233500 +0700" stop="20220215001500 +0700" channel="SONE">
+    <title lang="id">Doctor Room</title>
+  </programme>
+  <programme start="20220214091000 +0700" stop="20220214110000 +0700" channel="AXN">
+    <title lang="id">Innocent</title>
+  </programme>
+  <programme start="20220214110000 +0700" stop="20220214115000 +0700" channel="AXN">
+    <title lang="id">Wipeout</title>
+  </programme>
+  <programme start="20220214115000 +0700" stop="20220214124500 +0700" channel="AXN">
+    <title lang="id">Deputy</title>
+  </programme>
+  <programme start="20220214124500 +0700" stop="20220214133500 +0700" channel="AXN">
+    <title lang="id">CSI: Crime Scene...</title>
+  </programme>
+  <programme start="20220214133500 +0700" stop="20220214143000 +0700" channel="AXN">
+    <title lang="id">L.A.'s Finest</title>
+  </programme>
+  <programme start="20220214143000 +0700" stop="20220214152000 +0700" channel="AXN">
+    <title lang="id">Wipeout</title>
+  </programme>
+  <programme start="20220214152000 +0700" stop="20220214161500 +0700" channel="AXN">
+    <title lang="id">Deputy</title>
+  </programme>
+  <programme start="20220214161500 +0700" stop="20220214170500 +0700" channel="AXN">
+    <title lang="id">CSI: Crime Scene...</title>
+  </programme>
+  <programme start="20220214170500 +0700" stop="20220214180000 +0700" channel="AXN">
+    <title lang="id">The Blacklist</title>
+  </programme>
+  <programme start="20220214180000 +0700" stop="20220214185500 +0700" channel="AXN">
+    <title lang="id">NCIS: Los Angeles</title>
+  </programme>
+  <programme start="20220214185500 +0700" stop="20220214195000 +0700" channel="AXN">
+    <title lang="id">Wipeout</title>
+  </programme>
+  <programme start="20220214195000 +0700" stop="20220214204500 +0700" channel="AXN">
+    <title lang="id">Hudson &amp; Rex</title>
+  </programme>
+  <programme start="20220214204500 +0700" stop="20220214214000 +0700" channel="AXN">
+    <title lang="id">The Rookie</title>
+  </programme>
+  <programme start="20220214214000 +0700" stop="20220214223500 +0700" channel="AXN">
+    <title lang="id">CSI: NY</title>
+  </programme>
+  <programme start="20220214223500 +0700" stop="20220214233000 +0700" channel="AXN">
+    <title lang="id">The Rookie</title>
+  </programme>
+  <programme start="20220214233000 +0700" stop="20220215002500 +0700" channel="AXN">
+    <title lang="id">L.A.'s Finest</title>
   </programme>
 </tv>
